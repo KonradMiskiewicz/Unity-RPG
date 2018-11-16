@@ -1,0 +1,2 @@
+D:/Workspace/Unity/Praca_Dyplomowa_RPG/Assets\PostProcessing-2
+D:\Workspace\Unity\Praca_Dyplomowa_RPG\Packages\com.unity.postprocessing
